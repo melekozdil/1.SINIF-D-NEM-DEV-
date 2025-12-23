@@ -35,6 +35,7 @@ int main(){
             }
         }
     }
-    printf("gecerli isim sayisi: %d\n",count);
+    printf("gecerli isim sayisi: %d\n",sayac);
     return 0;
+
 }
